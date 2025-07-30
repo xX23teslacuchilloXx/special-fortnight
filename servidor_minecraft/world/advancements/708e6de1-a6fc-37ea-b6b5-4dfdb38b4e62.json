@@ -49,9 +49,1614 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-30 02:16:12 +0000",
+      "minecraft:river": "2025-07-30 02:07:37 +0000",
       "minecraft:forest": "2025-07-29 04:09:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/light_beige_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/lime_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/nii_floor": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/beige_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/ceiling_fan": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-07-30 02:07:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
+    "criteria": {
+      "has_item": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-30 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/light_blue_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/tools/rake": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/orange_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-07-30 02:13:38 +0000"
+    },
+    "done": false
+  },
+  "new_soviet:recipes/decorations/military_radio": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/industrial_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/radio_receiver": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_oak_planks_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/brown_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/green_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:root": {
+    "criteria": {
+      "0": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dark_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_tuff": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/light_blue_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dark_blue_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/blue_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/blue_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-30 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/purple_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-30 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/gray_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/magenta_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dark_brown_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/brown_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cyan_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/pink_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/tools/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/brown_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-30 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/green_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
+    "criteria": {
+      "has_item": "2025-07-30 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/table_lamp": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
+    "criteria": {
+      "has_iron_ingots": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-30 02:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/typewriter": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/green_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/light_bulb_lamp": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cyan_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cross_oak_planks_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_andesite": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/yellow_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/red_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/vintage_post_lamp_basic": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/combat/barbed_wire": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/yellow_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/yellow_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/red_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-30 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/orange_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/straight_oak_parquet_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/telephone": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/maya_stone": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/big_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/beige_green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/red_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/brown_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/misc/antenna": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-30 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-07-30 02:04:10 +0000",
+      "inv_changed-diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/orange_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/separated_oak_parquet_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-07-30 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/red_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/beige_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/green_wallpaper": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/modern_post_lamp_basic": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-30 02:06:05 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/tools/sickle": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-30 02:07:09 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/gray_linoleum": {
+    "criteria": {
+      "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-30 02:07:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
