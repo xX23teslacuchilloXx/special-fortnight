@@ -7641,5 +7641,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-30 02:21:14 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

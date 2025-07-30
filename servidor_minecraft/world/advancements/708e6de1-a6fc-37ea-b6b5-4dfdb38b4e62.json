@@ -97,6 +97,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "somemoreblocks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-30 02:11:24 +0000"
@@ -199,9 +205,21 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/nii_wall_3_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -234,6 +252,12 @@
       "has_item": "2025-07-30 02:04:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
   },
   "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
     "criteria": {
@@ -277,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-07-30 02:04:10 +0000"
@@ -292,6 +322,12 @@
   "new_soviet:recipes/building_blocks/orange_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-30 02:17:18 +0000"
     },
     "done": true
   },
@@ -318,6 +354,12 @@
       "minecraft:creeper": "2025-07-30 02:13:38 +0000"
     },
     "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
   },
   "new_soviet:recipes/decorations/military_radio": {
     "criteria": {
@@ -403,9 +445,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -430,6 +484,12 @@
   "new_soviet:recipes/decorations/green_tv": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
     },
     "done": true
   },
@@ -469,9 +529,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
     },
     "done": true
   },
@@ -532,6 +604,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -607,6 +685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-30 02:09:09 +0000"
@@ -625,9 +709,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-30 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -658,6 +754,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-30 02:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
     },
     "done": true
   },
@@ -745,6 +847,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-30 02:07:01 +0000"
@@ -762,6 +870,12 @@
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/decorations/tv": {
     "criteria": {
@@ -913,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-07-30 02:04:56 +0000"
@@ -930,6 +1050,12 @@
       "has_iron_ingots": "2025-07-30 02:04:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -997,9 +1123,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -1020,6 +1158,12 @@
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/building_blocks/cyan_linoleum": {
     "criteria": {
@@ -1054,6 +1198,12 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-30 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -1165,6 +1315,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
@@ -1231,6 +1387,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
@@ -1252,6 +1414,12 @@
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-07-30 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -1284,6 +1452,12 @@
       "has_iron_ingot": "2025-07-30 02:04:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -1369,6 +1543,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tiles_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-30 02:09:09 +0000"
@@ -1399,6 +1579,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-30 02:20:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
@@ -1417,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-30 02:17:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
@@ -1426,6 +1618,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-30 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
     },
     "done": true
   },
@@ -1450,6 +1648,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-30 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:17:53 +0000"
     },
     "done": true
   },
@@ -1601,6 +1805,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-30 02:17:57 +0000"
     },
     "done": true
   },
