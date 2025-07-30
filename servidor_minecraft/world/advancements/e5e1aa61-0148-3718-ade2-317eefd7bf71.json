@@ -7641,11 +7641,245 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_pillar_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_dripstone": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-30 02:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 02:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-07-30 02:21:14 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 02:29:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
