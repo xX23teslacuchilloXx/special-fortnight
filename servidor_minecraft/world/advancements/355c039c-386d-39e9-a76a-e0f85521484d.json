@@ -5606,6 +5606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 03:20:12 +0000"
@@ -5615,6 +5621,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },
@@ -5729,6 +5741,12 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-07-30 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },
@@ -5870,6 +5888,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/green_bricks": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-30 03:20:07 +0000"
@@ -5927,6 +5951,12 @@
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-30 03:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },
@@ -6098,6 +6128,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/blue_bricks": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-07-30 03:12:44 +0000"
@@ -6173,6 +6209,12 @@
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2025-07-30 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/black_bricks": {
+    "criteria": {
+      "has_item": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },
@@ -6296,6 +6338,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/cyan_bricks": {
+    "criteria": {
+      "has_item": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-30 03:20:07 +0000"
@@ -6338,9 +6386,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-30 03:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-30 03:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },
@@ -6377,6 +6437,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-30 03:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-30 03:28:05 +0000"
     },
     "done": true
   },
@@ -6482,6 +6548,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/cracked_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-07-30 03:04:29 +0000"
@@ -6503,6 +6575,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-30 03:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-30 03:27:47 +0000"
     },
     "done": true
   },
@@ -6674,6 +6752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/smooth_diorite": {
     "criteria": {
       "has_needed_items": "2025-07-30 03:20:08 +0000"
@@ -6692,6 +6776,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/green_bricks_mixed": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-30 03:20:08 +0000"
@@ -6704,9 +6794,21 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-30 03:27:47 +0000"
     },
     "done": true
   },
@@ -6737,6 +6839,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-30 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/glazed_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-30 03:28:56 +0000"
     },
     "done": true
   },

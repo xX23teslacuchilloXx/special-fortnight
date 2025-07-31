@@ -8307,12 +8307,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-30 03:27:20 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/smelting/bread": {
     "criteria": {
       "has_item": "2025-07-30 03:17:49 +0000"
@@ -8325,12 +8319,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-30 03:22:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/cake": {
     "criteria": {
       "has_item": "2025-07-30 03:17:49 +0000"
@@ -8338,6 +8326,12 @@
     "done": true
   },
   "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-07-30 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
     "criteria": {
       "has_item": "2025-07-30 03:17:49 +0000"
     },
@@ -8361,9 +8355,105 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/slime_ball": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_item": "2025-07-30 03:17:49 +0000"
+      "lava_bucket": "2025-07-30 03:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-30 03:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/blue_bricks": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/black_bricks": {
+    "criteria": {
+      "has_item": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/cyan_bricks": {
+    "criteria": {
+      "has_item": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/green_bricks_mixed": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/glazed_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-31 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-07-31 03:43:01 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-07-31 03:45:03 +0000"
     },
     "done": true
   },
