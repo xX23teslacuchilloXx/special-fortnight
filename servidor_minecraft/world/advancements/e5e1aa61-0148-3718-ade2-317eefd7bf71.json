@@ -8457,5 +8457,83 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "create_dd:tin_ingot": {
+    "criteria": {
+      "0": "2025-07-31 04:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_crimson_planks_from_crimson_planks_stonecutting": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cross_crimson_planks_from_crimson_planks_stonecutting": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-31 04:23:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
