@@ -8560,6 +8560,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/spruce_mosaic": {
+    "criteria": {
+      "has_needed_items": "2025-08-16 05:43:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-16 02:19:45 +0000"
@@ -8701,6 +8707,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-16 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/spruce_pane_window_shapeless": {
+    "criteria": {
+      "has_spruce_slab": "2025-08-16 05:43:31 +0000"
     },
     "done": true
   },
