@@ -421,3 +421,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [01:55:10] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [01:55:10] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [02:32:56] [Server thread/INFO]: Yumalala has made the advancement [Enchanter]
+[02:47:16] [Server thread/INFO]: Yumalala fell from a high place
+[02:47:16] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.ocelot_16.08.2025-02.47.16.dat
+[02:47:16] [Server thread/INFO]: Your backpack has been placed at X: 597 Y: -1 Z: 37
+[02:47:26] [Server thread/INFO]: Yumalala fell from a high place
+[02:47:27] [Server thread/INFO]: Did not backup data (grave data empty)
+[02:47:37] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 596, -1, 37, minecraft:overworld
+[02:48:03] [Server thread/INFO]: [Yumalala: Gave 31 experience levels to Yumalala]
