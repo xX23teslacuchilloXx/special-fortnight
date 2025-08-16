@@ -561,3 +561,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[06:10:42] [Server thread/INFO]: Yumalala was slain by Zombie
+[06:11:02] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -1270, -9, 530, minecraft:overworld
