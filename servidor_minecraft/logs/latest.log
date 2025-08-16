@@ -428,3 +428,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [02:47:27] [Server thread/INFO]: Did not backup data (grave data empty)
 [02:47:37] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 596, -1, 37, minecraft:overworld
 [02:48:03] [Server thread/INFO]: [Yumalala: Gave 31 experience levels to Yumalala]
+[04:46:20] [Server thread/INFO]: Yumalala fell from a high place
+[04:46:20] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.ocelot_16.08.2025-04.46.20.dat
+[04:46:20] [Server thread/INFO]: Your backpack has been placed at X: 594 Y: 0 Z: 36
+[04:46:36] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 596, 0, 36, minecraft:overworld
+[04:46:53] [Server thread/INFO]: [Yumalala: Gave 31 experience levels to Yumalala]
