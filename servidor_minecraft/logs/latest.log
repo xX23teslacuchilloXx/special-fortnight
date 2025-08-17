@@ -420,3 +420,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [21:47:23] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [21:47:23] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [23:27:41] [Server thread/INFO]: Villager class_1646['Unemployed'/2169, l='ServerLevel[world]', x=573.70, y=0.00, z=40.70] died, message: 'Unemployed was squished too much'
+[23:34:54] [Server thread/INFO]: Villager class_1646['Unemployed'/338184, l='ServerLevel[world]', x=573.30, y=0.00, z=40.30] died, message: 'Unemployed was squished too much'
