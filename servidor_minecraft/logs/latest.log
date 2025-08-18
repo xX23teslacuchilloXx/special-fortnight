@@ -430,3 +430,12 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:36:01] [Server thread/INFO]: Yumalala fell from a high place
 [04:36:02] [Server thread/INFO]: Did not backup data (grave data empty)
 [04:37:31] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 158, 14, 26, minecraft:the_nether
+[04:51:22] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/748879, l='ServerLevel[world]', x=-76.08, y=84.95, z=405.64] died: Restless Spirit starved to death
+[04:51:59] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/752353, l='ServerLevel[world]', x=-21.19, y=91.47, z=407.31] died: Restless Spirit starved to death
+[04:52:16] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/754238, l='ServerLevel[world]', x=-64.39, y=79.94, z=386.18] died: Restless Spirit starved to death
+[04:52:16] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/754240, l='ServerLevel[world]', x=-54.59, y=80.48, z=382.50] died: Restless Spirit starved to death
+[04:53:15] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/758274, l='ServerLevel[world]', x=-17.70, y=78.00, z=359.00] died: Restless Spirit starved to death
+[04:53:47] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/760517, l='ServerLevel[world]', x=-23.86, y=101.71, z=356.38] died: Restless Spirit starved to death
+[04:53:55] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/761095, l='ServerLevel[world]', x=-9.53, y=130.12, z=385.69] died: Restless Spirit starved to death
+[04:54:53] [Server thread/WARN]: Yumalala moved too quickly! -0.8821680253655746,0.0,-10.207418271531168
+[05:00:51] [Server thread/INFO]: Yumalala has completed the challenge [Cover Me in Debris]
