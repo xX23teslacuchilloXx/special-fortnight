@@ -9297,6 +9297,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-08-18 06:00:32 +0000"
+    },
+    "done": true
+  },
   "alcocraftplus:all_beer": {
     "criteria": {
       "sun_pale_ale": "2025-08-18 05:11:38 +0000"
@@ -9387,6 +9393,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-08-18 06:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 06:00:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-18 05:05:04 +0000"
@@ -9438,6 +9456,12 @@
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_the_recipe": "2025-08-18 05:03:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-18 06:00:32 +0000"
     },
     "done": true
   },
