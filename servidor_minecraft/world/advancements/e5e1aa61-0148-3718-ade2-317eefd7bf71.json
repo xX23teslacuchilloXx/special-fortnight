@@ -416,6 +416,8 @@
       "minecraft:blaze": "2025-07-17 05:30:07 +0000",
       "minecraft:pillager": "2025-07-17 02:49:59 +0000",
       "minecraft:skeleton": "2025-07-17 03:02:52 +0000",
+      "minecraft:ghast": "2025-08-18 00:35:28 +0000",
+      "minecraft:hoglin": "2025-08-18 00:34:52 +0000",
       "minecraft:vindicator": "2025-07-17 03:27:55 +0000",
       "minecraft:magma_cube": "2025-07-17 05:22:16 +0000",
       "minecraft:piglin_brute": "2025-07-17 05:18:01 +0000",
@@ -9096,6 +9098,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-18 00:35:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-08-18 00:24:45 +0000"
@@ -9144,6 +9152,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-18 00:35:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-17 21:50:00 +0000"
@@ -9155,6 +9169,12 @@
       "has_stone_types_scoria": "2025-08-17 21:50:00 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-18 00:35:34 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -9201,6 +9221,12 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-17 21:50:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-18 00:35:34 +0000"
     },
     "done": true
   },
