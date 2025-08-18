@@ -9261,12 +9261,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-18 05:21:48 +0000"
-    },
-    "done": false
-  },
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-08-18 05:03:05 +0000"

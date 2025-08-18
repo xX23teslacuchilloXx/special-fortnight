@@ -439,3 +439,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:53:55] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/761095, l='ServerLevel[world]', x=-9.53, y=130.12, z=385.69] died: Restless Spirit starved to death
 [04:54:53] [Server thread/WARN]: Yumalala moved too quickly! -0.8821680253655746,0.0,-10.207418271531168
 [05:00:51] [Server thread/INFO]: Yumalala has completed the challenge [Cover Me in Debris]
+[05:24:27] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
