@@ -424,3 +424,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [04:03:13] [Server thread/INFO]: Yumalala was slain by Slime
 [04:11:45] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 625, 0, 28, minecraft:overworld
+[04:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
+[04:14:45] [Server thread/INFO]: Yumalala has made the advancement [Hidden in the Depths]
