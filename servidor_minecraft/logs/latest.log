@@ -441,3 +441,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:00:51] [Server thread/INFO]: Yumalala has completed the challenge [Cover Me in Debris]
 [05:24:27] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[05:37:28] [Server thread/WARN]: Yumalala moved wrongly!
