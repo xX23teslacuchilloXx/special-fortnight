@@ -422,3 +422,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 io.netty.handler.timeout.ReadTimeoutException: null
 [03:38:52] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[04:03:13] [Server thread/INFO]: Yumalala was slain by Slime
+[04:11:45] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 625, 0, 28, minecraft:overworld
