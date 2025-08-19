@@ -423,3 +423,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [01:33:15] [Server thread/INFO]: Rejected teleport: MissingWaystone
 [01:33:23] [Server thread/INFO]: Rejected teleport: MissingWaystone
 [01:33:39] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[02:21:43] [Server thread/WARN]: Yumalala moved wrongly!
