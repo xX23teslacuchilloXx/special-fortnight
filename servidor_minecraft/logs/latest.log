@@ -419,3 +419,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [01:21:58] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [01:25:50] [Server thread/INFO]: Rejected teleport: MissingWaystone
 [01:25:52] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[01:27:14] [Server thread/WARN]: Yumalala moved wrongly!
+[01:33:15] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[01:33:23] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[01:33:39] [Server thread/INFO]: Rejected teleport: MissingWaystone
