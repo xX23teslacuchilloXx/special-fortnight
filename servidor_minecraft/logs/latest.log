@@ -409,3 +409,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [01:07:27] [Server thread/INFO]: Start loading plugin from Kiwi Library
 [01:07:27] [Server thread/INFO]: Start loading plugin from Snow! Real Magic!
 [01:07:27] [Server thread/INFO]: Start loading plugin from Waystones
+[01:18:03] [pool-3-thread-1/INFO]: Vivecraft: Checking for Updates
+[01:18:03] [Server thread/INFO]: Yumalala[/127.51.207.243:46463] logged in with entity id 42851 at (602.7421660238791, 0.0, 37.295326670486844)
+[01:18:03] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[01:18:03] [Server thread/INFO]: Loading config from file...
+[01:18:03] [Server thread/INFO]: Yumalala joined the game
+[01:18:06] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[01:21:58] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[01:21:58] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[01:25:50] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[01:25:52] [Server thread/INFO]: Rejected teleport: MissingWaystone
