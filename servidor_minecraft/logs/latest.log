@@ -442,3 +442,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [03:37:38] [Server thread/WARN]: Yumalala moved wrongly!
 [03:38:24] [Server thread/WARN]: Yumalala moved wrongly!
 [03:39:53] [Server thread/WARN]: Yumalala moved wrongly!
+[03:54:57] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=217, y=48, z=159}
+[03:57:10] [Server thread/WARN]: Yumalala moved wrongly!
+[03:59:42] [Server thread/WARN]: Yumalala moved wrongly!
