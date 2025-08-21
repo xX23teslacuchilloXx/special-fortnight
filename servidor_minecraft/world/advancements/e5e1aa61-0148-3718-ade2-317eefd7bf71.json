@@ -9515,6 +9515,7 @@
   },
   "alcocraftplus:all_beer": {
     "criteria": {
+      "chorus_ale": "2025-08-21 04:22:20 +0000",
       "sun_pale_ale": "2025-08-18 05:11:38 +0000"
     },
     "done": false
@@ -9738,6 +9739,12 @@
   "somemoreblocks:recipes/building_blocks/cut_amethyst": {
     "criteria": {
       "has_needed_items": "2025-08-21 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-08-21 04:18:19 +0000"
     },
     "done": true
   },
