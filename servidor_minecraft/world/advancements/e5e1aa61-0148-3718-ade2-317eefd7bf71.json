@@ -9735,5 +9735,17 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/cut_amethyst": {
+    "criteria": {
+      "has_needed_items": "2025-08-21 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/amethyst_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-08-21 03:37:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

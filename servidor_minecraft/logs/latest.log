@@ -438,3 +438,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [02:46:02] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [02:46:45] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [02:46:45] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[03:36:22] [Server thread/WARN]: Yumalala moved wrongly!
+[03:37:38] [Server thread/WARN]: Yumalala moved wrongly!
+[03:38:24] [Server thread/WARN]: Yumalala moved wrongly!
+[03:39:53] [Server thread/WARN]: Yumalala moved wrongly!
