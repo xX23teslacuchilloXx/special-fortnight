@@ -431,3 +431,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [19:06:14] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/167411, l='ServerLevel[world]', x=84.56, y=83.17, z=65.20] died: Desert Blaze was slain by Yumalala
 [19:06:19] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/167412, l='ServerLevel[world]', x=89.70, y=88.36, z=68.11] died: Desert Blaze was slain by Yumalala
 [19:09:36] [Server thread/INFO]: [Yumalala: Summoned new Unemployed]
+[19:13:51] [Server thread/INFO]: Yumalala was slain by Vindicator
+[19:13:51] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.bookshelf_25.08.2025-19.13.51.dat
+[19:13:51] [Server thread/INFO]: Your backpack has been placed at X: 576 Y: 64 Z: 25
+[19:14:00] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 575, 64, 25, minecraft:overworld
+[19:17:04] [Server thread/INFO]: Named entity class_1642['Sand Crab'/666, l='ServerLevel[world]', x=623.37, y=62.15, z=34.61] died: Sand Crab was killed whilst fighting Yumalala
+[19:18:24] [Server thread/INFO]: Yumalala was slain by Vindicator
+[19:18:27] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 567, 67, 43, minecraft:overworld
+[19:20:39] [Server thread/INFO]: Yumalala was slain by Ravager
+[19:20:47] [Server thread/INFO]: Yumalala was slain by Ravager
+[19:20:48] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:21:08] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 558, 67, 75, minecraft:overworld
+[19:21:19] [Server thread/INFO]: Yumalala was slain by Ravager
+[19:21:27] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 563, 64, 76, minecraft:overworld
+[19:22:09] [Server thread/INFO]: Yumalala was slain by Vindicator
+[19:22:14] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 580, 66, 29, minecraft:overworld
