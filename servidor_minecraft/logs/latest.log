@@ -421,3 +421,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [01:04:51] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [01:33:50] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[03:08:51] [Server thread/WARN]: Yumalala moved wrongly!
