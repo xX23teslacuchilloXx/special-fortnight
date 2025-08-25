@@ -9774,6 +9774,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-25 19:58:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
@@ -9813,6 +9819,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-25 19:49:14 +0000"
     },
     "done": true
   },
