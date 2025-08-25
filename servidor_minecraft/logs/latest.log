@@ -426,3 +426,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [18:56:48] [Server thread/INFO]: Yumalala has made the advancement [Voluntary Exile]
 [19:01:52] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/137845, l='ServerLevel[world]', x=251.23, y=64.15, z=-32.90] died: Desert Blaze was slain by Yumalala
 [19:02:35] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/144128, l='ServerLevel[world]', x=279.30, y=62.00, z=-82.67] died: Desert Blaze was slain by Yumalala
+[19:05:08] [Server thread/INFO]: Yumalala has made the advancement [Light-Sensitive]
+[19:05:08] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/167310, l='ServerLevel[world]', x=89.47, y=57.32, z=126.28] died: Desert Blaze was slain by Yumalala
+[19:06:14] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/167411, l='ServerLevel[world]', x=84.56, y=83.17, z=65.20] died: Desert Blaze was slain by Yumalala
+[19:06:19] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/167412, l='ServerLevel[world]', x=89.70, y=88.36, z=68.11] died: Desert Blaze was slain by Yumalala
+[19:09:36] [Server thread/INFO]: [Yumalala: Summoned new Unemployed]

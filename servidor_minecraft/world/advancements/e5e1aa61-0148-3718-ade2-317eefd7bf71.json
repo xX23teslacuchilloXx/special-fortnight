@@ -9814,6 +9814,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-08-25 19:05:08 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
