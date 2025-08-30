@@ -6891,69 +6891,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-08-30 03:39:31 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/diamond_pillar": {
     "criteria": {
       "has_needed_items": "2025-08-30 03:35:54 +0000"
-    },
-    "done": true
-  },
-  "new_soviet:recipes/building_blocks/cross_spruce_planks_from_spruce_planks_stonecutting": {
-    "criteria": {
-      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-08-30 04:10:14 +0000"
-    },
-    "done": true
-  },
-  "new_soviet:recipes/building_blocks/herringbone_spruce_parquet_from_spruce_planks_stonecutting": {
-    "criteria": {
-      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-08-30 04:06:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2025-08-30 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-30 04:20:00 +0000"
     },
     "done": true
   },
@@ -6963,39 +6903,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/electron_tube": {
-    "criteria": {
-      "has_the_recipe": "2025-08-30 04:09:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-08-30 03:35:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
-      "has_planks": "2025-08-30 04:20:00 +0000"
+      "has_material": "2025-08-30 03:35:54 +0000"
     },
     "done": true
   },
-  "create:rose_quartz": {
+  "somemoreblocks:recipes/building_blocks/cut_diamond": {
     "criteria": {
-      "0": "2025-08-30 04:06:12 +0000"
+      "has_needed_items": "2025-08-30 03:35:54 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brass_hand": {
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
-      "has_the_recipe": "2025-08-30 04:09:04 +0000"
+      "has_material": "2025-08-30 03:35:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_log": "2025-08-30 03:52:33 +0000"
+      "has_emerald_block": "2025-08-30 03:39:31 +0000"
     },
     "done": true
   },
@@ -7017,15 +6951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_planks": "2025-08-30 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "new_soviet:recipes/building_blocks/herringbone_spruce_planks_from_spruce_planks_stonecutting": {
-    "criteria": {
-      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
+      "has_log": "2025-08-30 03:52:33 +0000"
     },
     "done": true
   },
@@ -7035,9 +6963,105 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
-      "has_material": "2025-08-30 03:35:54 +0000"
+      "has_polished_rose_quartz": "2025-08-30 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-30 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-08-30 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:09:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-08-30 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-30 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-30 04:10:14 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cross_spruce_planks_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_spruce_parquet_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-30 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_spruce_planks_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-08-30 04:20:00 +0000"
     },
     "done": true
   },
@@ -7059,33 +7083,160 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-08-30 04:06:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
-    "criteria": {
-      "has_item": "2025-08-30 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cut_diamond": {
-    "criteria": {
-      "has_needed_items": "2025-08-30 03:35:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-30 04:20:00 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_destructor_hammer": {
+  "create:burner": {
     "criteria": {
-      "has_material": "2025-08-30 03:35:54 +0000"
+      "0": "2025-08-30 04:25:19 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-08-30 04:26:46 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/iron_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_cut_iron": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "create_dd:industrial_iron": {
+    "criteria": {
+      "0": "2025-08-30 04:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/diagonal_deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/small_deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000",
+      "has_the_recipe": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-30 04:35:58 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_iron_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-08-30 04:50:48 +0000"
     },
     "done": true
   },

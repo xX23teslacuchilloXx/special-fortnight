@@ -9882,11 +9882,35 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "somemoreblocks:recipes/building_blocks/cracked_iron_bricks": {
     "criteria": {
-      "requirement": "2025-08-30 04:22:55 +0000"
+      "has_needed_items": "2025-08-30 04:28:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/iron_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 04:27:57 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_cut_iron": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 04:27:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2025-08-30 04:51:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-08-30 04:50:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
