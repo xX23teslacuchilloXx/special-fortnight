@@ -6914,6 +6914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 03:52:33 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/emerald_pillar": {
     "criteria": {
       "has_needed_items": "2025-08-30 03:39:31 +0000"
@@ -6929,6 +6935,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-30 03:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-30 03:52:33 +0000"
     },
     "done": true
   },
