@@ -745,3 +745,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [06:38:11] [Server thread/INFO]: skupdiripop was incinerated by an Encased Fan
 [06:38:19] [Server thread/INFO]: skupdiripop claimed a grave belonging to skupdiripop at 589, 69, 52, minecraft:overworld
+[06:51:26] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[06:51:26] [Server thread/INFO]: skupdiripop left the game
