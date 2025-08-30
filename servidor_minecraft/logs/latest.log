@@ -607,3 +607,25 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [04:59:26] [Server thread/WARN]: Yumalala moved too quickly! -3.1053098698581607,-0.4641593749554431,9.500676120087306
 [05:14:11] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 579.500000, 66.000000, 143.500000]
 [05:14:16] [Server thread/INFO]: [Yumalala: Teleported skupdiripop to 579.500000, 66.000000, 143.500000]
+[05:23:42] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[05:24:46] [Server thread/WARN]: Tried to over-fill a container
+[05:25:28] [Server thread/WARN]: Tried to over-fill a container
+[05:26:02] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[05:26:02] [Server thread/INFO]: skupdiripop left the game
+[05:26:10] [Server thread/INFO]: skupdiripop[/127.44.131.67:38705] logged in with entity id 1810730 at (595.7512058691585, 68.0, 53.03961186867924)
+[05:26:10] [Server thread/INFO]: Syncing config to skupdiripop (355c039c-386d-39e9-a76a-e0f85521484d)
+[05:26:10] [Server thread/INFO]: Loading config from file...
+[05:26:10] [Server thread/INFO]: skupdiripop joined the game
+[05:26:10] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player skupdiripop. Claiming: GRAVE / Robbing: INVENTORY
+[05:26:24] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[05:26:24] [Server thread/INFO]: skupdiripop left the game
+[05:26:31] [Server thread/INFO]: skupdiripop[/127.44.131.67:43735] logged in with entity id 1817149 at (595.7512058691585, 68.0, 53.03961186867924)
+[05:26:31] [Server thread/INFO]: Syncing config to skupdiripop (355c039c-386d-39e9-a76a-e0f85521484d)
+[05:26:31] [Server thread/INFO]: Loading config from file...
+[05:26:31] [Server thread/INFO]: skupdiripop joined the game
+[05:26:31] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player skupdiripop. Claiming: GRAVE / Robbing: INVENTORY
+[05:26:54] [Server thread/INFO]: [Not Secure] <skupdiripop> aaaaa
+[05:26:59] [Server thread/INFO]: [Not Secure] <skupdiripop> zzzz
+[05:27:15] [Server thread/INFO]: [Not Secure] <Yumalala> niganiganigagnaignai
+[05:27:20] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
