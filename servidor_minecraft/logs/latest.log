@@ -431,3 +431,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [03:32:52] [Server thread/INFO]: [Yumalala: Teleported Yumalala to skupdiripop]
 [03:35:28] [Server thread/WARN]: skupdiripop moved too quickly! 0.0,-10.51618154192392,0.19927178755460773
 [03:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[03:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[03:41:26] [Server thread/INFO]: skupdiripop has made the advancement [What a Deal!]

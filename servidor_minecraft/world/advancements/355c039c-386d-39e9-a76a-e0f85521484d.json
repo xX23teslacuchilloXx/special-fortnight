@@ -6884,5 +6884,71 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-30 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diamond_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/emerald_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_emerald": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-30 03:41:26 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_diamond": {
+    "criteria": {
+      "has_needed_items": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-08-30 03:35:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
