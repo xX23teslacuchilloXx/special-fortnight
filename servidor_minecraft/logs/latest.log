@@ -743,3 +743,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[06:38:11] [Server thread/INFO]: skupdiripop was incinerated by an Encased Fan
+[06:38:19] [Server thread/INFO]: skupdiripop claimed a grave belonging to skupdiripop at 589, 69, 52, minecraft:overworld
