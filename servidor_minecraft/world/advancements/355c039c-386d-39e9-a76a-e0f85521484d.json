@@ -7264,5 +7264,29 @@
     },
     "done": true
   },
+  "xkdeco:recipes/redstone/steel_trapdoor": {
+    "criteria": {
+      "has_steel_block": "2025-08-30 05:37:50 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/steel_tiles_from_steel_block_stonecutting": {
+    "criteria": {
+      "has_steel_block": "2025-08-30 05:37:50 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/steel_filings_from_steel_block_stonecutting": {
+    "criteria": {
+      "has_steel_block": "2025-08-30 05:37:50 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/smooth_steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-08-30 05:37:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
