@@ -9774,6 +9774,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-25 18:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
@@ -9783,12 +9789,6 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-08-25 18:56:48 +0000"
     },
     "done": true
   },
@@ -9804,12 +9804,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse_smithing": {
-    "criteria": {
-      "has_horse": "2025-08-25 20:01:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
@@ -9819,18 +9813,6 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-08-25 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-08-25 19:05:08 +0000"
     },
     "done": true
   },
@@ -9849,12 +9831,6 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-08-25 19:23:11 +0000"
     },
     "done": true
   },
@@ -9879,6 +9855,30 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-25 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-08-25 19:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-25 19:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-25 19:49:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-08-25 20:01:36 +0000"
     },
     "done": true
   },
