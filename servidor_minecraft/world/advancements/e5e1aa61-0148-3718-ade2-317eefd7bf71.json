@@ -6888,7 +6888,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-20 05:29:33 +0000"
+      "in_better_spider_dungeon": "2025-07-20 05:29:33 +0000",
+      "in_better_skeleton_dungeon": "2025-08-31 22:44:40 +0000"
     },
     "done": false
   },
@@ -9909,6 +9910,48 @@
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2025-08-30 04:51:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-31 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-08-31 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-08-31 22:44:40 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-08-31 22:51:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-08-31 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-31 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-31 23:00:25 +0000"
     },
     "done": true
   },
