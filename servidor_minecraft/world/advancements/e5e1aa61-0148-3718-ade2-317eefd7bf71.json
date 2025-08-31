@@ -9882,59 +9882,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_iron_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-08-30 04:28:06 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/iron_bricks": {
     "criteria": {
       "has_needed_items": "2025-08-30 04:27:57 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
   },
   "somemoreblocks:recipes/building_blocks/cracked_cut_iron": {
     "criteria": {
@@ -9942,45 +9894,21 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "somemoreblocks:recipes/building_blocks/cracked_iron_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/spider_smithing": {
-    "criteria": {
-      "has_spider": "2025-08-30 04:51:26 +0000"
+      "has_needed_items": "2025-08-30 04:28:06 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-30 05:56:58 +0000"
-    },
-    "done": false
   },
   "travelersbackpack:recipes/misc/cake_smithing": {
     "criteria": {
       "has_cake": "2025-08-30 04:50:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2025-08-30 04:51:26 +0000"
     },
     "done": true
   },
