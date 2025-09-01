@@ -64,6 +64,7 @@
       "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 05:42:38 +0000",
       "minecraft:river": "2025-07-17 02:48:27 +0000",
+      "minecraft:dripstone_caves": "2025-09-01 03:51:56 +0000",
       "minecraft:cold_ocean": "2025-07-20 06:21:11 +0000",
       "minecraft:forest": "2025-07-17 02:26:19 +0000",
       "minecraft:lush_caves": "2025-07-17 04:51:41 +0000",
@@ -438,7 +439,8 @@
       "minecraft:stray": "2025-07-17 03:00:21 +0000",
       "minecraft:vex": "2025-08-25 19:20:11 +0000",
       "minecraft:zombie": "2025-07-17 03:00:25 +0000",
-      "minecraft:drowned": "2025-07-17 03:02:09 +0000"
+      "minecraft:drowned": "2025-07-17 03:02:09 +0000",
+      "minecraft:zombie_villager": "2025-09-01 04:06:18 +0000"
     },
     "done": false
   },
@@ -9990,6 +9992,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/polished_mud_stairs_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/dye_blue_concrete": {
     "criteria": {
       "has_needed_dye": "2025-09-01 01:53:56 +0000"
@@ -10098,6 +10106,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mud_tiles_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10188,6 +10202,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tile_stairs_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tile_slab_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/diagonal_deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10215,6 +10247,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-09-01 01:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-01 03:55:22 +0000"
     },
     "done": true
   },
@@ -10299,6 +10337,18 @@
   "incendium:quartz_flats/sanctum/vault_hunter": {
     "criteria": {
       "requirement": "2025-09-01 00:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-01 03:55:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_mud": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
     },
     "done": true
   },
@@ -10440,6 +10490,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mud_tile_wall_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10449,6 +10505,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_mud": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
     },
     "done": true
   },
@@ -10500,6 +10562,18 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/polished_mud_slab_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_pillar_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-08-31 23:53:45 +0000"
@@ -10531,6 +10605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-09-01 03:53:33 +0000"
+    },
+    "done": true
+  },
   "create_dd:industrial_iron": {
     "criteria": {
       "0": "2025-09-01 02:25:50 +0000"
@@ -10540,6 +10620,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_mud_bricks_from_packed_mud_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 03:51:51 +0000"
     },
     "done": true
   },

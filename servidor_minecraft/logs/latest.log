@@ -2181,3 +2181,16 @@ Caused by: java.io.IOException: Packet 1/0 (class_2937) was larger than I expect
 [03:43:39] [Server thread/INFO]: Villager class_1646['Farmer'/6672036, l='ServerLevel[world]', x=7308.76, y=59.00, z=1300.30] died, message: 'Farmer was slain by Zombie'
 [03:44:32] [Server thread/INFO]: [Yumalala: Teleported Yumalala to skupdiripop]
 [03:46:18] [Server thread/INFO]: [Yumalala: Teleported skupdiripop to Yumalala]
+[03:49:38] [Server thread/WARN]: skupdiripop moved too quickly! 3.750402621603371,0.42355929454303975,-9.385401938277859
+[03:52:40] [Server thread/INFO]: [Yumalala: Teleported skupdiripop to Yumalala]
+[03:53:28] [Server thread/INFO]: [Yumalala: Teleported skupdiripop to Yumalala]
+[03:53:32] [Server thread/INFO]: AKUSGOD lost connection: Disconnected
+[03:53:32] [Server thread/INFO]: AKUSGOD left the game
+[03:54:01] [Server thread/INFO]: skupdiripop lost connection: Timed out
+[03:54:01] [Server thread/INFO]: skupdiripop left the game
+[03:54:08] [Server thread/INFO]: skupdiripop[/127.120.137.177:52557] logged in with entity id 6999437 at (6428.086931051956, 43.0, 1539.337726839375)
+[03:54:08] [Server thread/INFO]: Syncing config to skupdiripop (355c039c-386d-39e9-a76a-e0f85521484d)
+[03:54:08] [Server thread/INFO]: Loading config from file...
+[03:54:08] [Server thread/INFO]: skupdiripop joined the game
+[03:54:09] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player skupdiripop. Claiming: GRAVE / Robbing: INVENTORY
+[03:57:03] [Server thread/INFO]: [Yumalala: Teleported Yumalala to skupdiripop]
