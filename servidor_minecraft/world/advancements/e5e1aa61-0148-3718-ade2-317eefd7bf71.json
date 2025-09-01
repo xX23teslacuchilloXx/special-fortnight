@@ -9920,7 +9920,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-09-01 01:56:16 +0000"
+      "requirement": "2025-09-01 02:16:16 +0000"
     },
     "done": false
   },
@@ -10035,6 +10035,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-09-01 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-01 02:02:00 +0000"
     },
     "done": true
   },
@@ -10212,6 +10218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-01 02:02:00 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/sanctum/vault_hunter": {
     "criteria": {
       "requirement": "2025-09-01 00:40:27 +0000"
@@ -10221,6 +10233,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-09-01 01:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-01 02:02:00 +0000"
     },
     "done": true
   },
@@ -10245,6 +10263,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_prismarine_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:02:00 +0000"
     },
     "done": true
   },
