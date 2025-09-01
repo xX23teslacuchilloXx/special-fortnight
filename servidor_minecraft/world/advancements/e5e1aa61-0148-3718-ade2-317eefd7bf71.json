@@ -10134,6 +10134,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-09-01 03:22:12 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/diorite_bricks_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-01 02:57:21 +0000"
