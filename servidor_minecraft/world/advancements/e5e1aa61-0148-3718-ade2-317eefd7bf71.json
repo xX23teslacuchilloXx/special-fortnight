@@ -9922,7 +9922,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-09-01 05:06:23 +0000"
+      "requirement": "2025-09-01 05:26:23 +0000"
     },
     "done": false
   },
@@ -10250,6 +10250,18 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/orange_maple_leaves": {
+    "criteria": {
+      "has_item": "2025-09-01 05:13:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-09-01 05:12:07 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/quartz_wall_from_quartz_pillar_stonecutting": {
     "criteria": {
       "has_quartz_pillar": "2025-09-01 00:42:40 +0000"
@@ -10262,9 +10274,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-09-01 05:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-09-01 03:55:22 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/plantable_leaves": {
+    "criteria": {
+      "has_item": "2025-09-01 05:13:05 +0000"
     },
     "done": true
   },
@@ -10358,6 +10382,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/red_maple_leaves": {
+    "criteria": {
+      "has_item": "2025-09-01 05:13:05 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/smooth_mud": {
     "criteria": {
       "has_needed_items": "2025-09-01 03:51:51 +0000"
@@ -10415,6 +10445,12 @@
   "somemoreblocks:recipes/building_blocks/blue_terracotta_tiles_from_blue_dye": {
     "criteria": {
       "has_needed_items": "2025-09-01 01:53:56 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/ginkgo_leaves": {
+    "criteria": {
+      "has_item": "2025-09-01 05:13:05 +0000"
     },
     "done": true
   },
