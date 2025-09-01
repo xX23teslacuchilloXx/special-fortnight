@@ -7291,6 +7291,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-01 00:36:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-09-01 00:02:11 +0000"
