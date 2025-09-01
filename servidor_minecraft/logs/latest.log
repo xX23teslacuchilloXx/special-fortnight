@@ -426,3 +426,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [07:06:18] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.chicken_01.09.2025-07.06.18.dat
 [07:06:18] [Server thread/INFO]: Your backpack has been placed at X: 567 Y: 51 Z: 107
 [07:07:11] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 566, 51, 107, minecraft:overworld
+[07:09:47] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[07:09:47] [Server thread/INFO]: Yumalala left the game
