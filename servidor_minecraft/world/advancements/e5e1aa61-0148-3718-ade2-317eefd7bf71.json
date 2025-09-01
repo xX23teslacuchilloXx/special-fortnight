@@ -9918,12 +9918,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-01 02:16:16 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-01 01:30:45 +0000"
@@ -10380,6 +10374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-01 02:19:02 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/dye_blue_linoleum": {
     "criteria": {
       "has_needed_dye": "2025-09-01 01:53:56 +0000"
@@ -10426,6 +10426,12 @@
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000",
       "has_the_recipe": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "create_dd:industrial_iron": {
+    "criteria": {
+      "0": "2025-09-01 02:25:50 +0000"
     },
     "done": true
   },

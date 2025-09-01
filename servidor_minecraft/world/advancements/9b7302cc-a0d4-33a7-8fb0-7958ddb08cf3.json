@@ -4507,12 +4507,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-01 02:16:16 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-31 23:57:40 +0000"
@@ -4561,6 +4555,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_the_recipe": "2025-09-01 02:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-08-31 22:28:03 +0000"
@@ -4590,6 +4590,12 @@
       "in_better_skeleton_dungeon": "2025-08-31 23:47:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-01 02:28:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
