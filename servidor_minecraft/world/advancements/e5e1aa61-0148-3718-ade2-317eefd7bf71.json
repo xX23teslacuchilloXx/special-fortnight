@@ -9920,6 +9920,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-01 06:16:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-01 01:30:45 +0000"
@@ -9995,6 +10001,12 @@
   "somemoreblocks:recipes/building_blocks/polished_mud_stairs_from_packed_mud_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-01 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-09-01 05:57:48 +0000"
     },
     "done": true
   },
@@ -10118,6 +10130,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-01 05:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-09-01 05:57:48 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10226,6 +10250,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-01 06:15:14 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/diagonal_deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10259,6 +10289,12 @@
   "xkdeco:recipes/building_blocks/quartz_wall_from_quartz_pillar_stonecutting": {
     "criteria": {
       "has_quartz_pillar": "2025-09-01 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-01 05:57:27 +0000"
     },
     "done": true
   },
@@ -10457,6 +10493,12 @@
   "new_soviet:recipes/building_blocks/big_diorite_tiles_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-09-01 05:47:02 +0000"
     },
     "done": true
   },
@@ -10734,6 +10776,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-09-01 05:47:38 +0000"
     },
     "done": true
   },
