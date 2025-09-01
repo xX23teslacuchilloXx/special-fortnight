@@ -4760,7 +4760,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-20 05:29:37 +0000"
+      "in_better_spider_dungeon": "2025-07-20 05:29:37 +0000",
+      "in_better_skeleton_dungeon": "2025-09-01 00:54:20 +0000"
     },
     "done": false
   },
@@ -7291,11 +7292,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "requirement": "2025-09-01 00:36:16 +0000"
+      "has_ancient_debris": "2025-09-01 00:42:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -7309,9 +7310,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-01 00:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:quartz_flats": "2025-08-31 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-09-01 00:54:20 +0000"
     },
     "done": true
   },
@@ -7321,9 +7340,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-01 00:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-09-01 00:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -7336,6 +7367,18 @@
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-08-31 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-01 00:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-09-01 00:42:55 +0000"
     },
     "done": true
   },

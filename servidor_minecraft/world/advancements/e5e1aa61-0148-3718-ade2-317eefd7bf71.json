@@ -9918,6 +9918,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-01 00:56:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-08-31 23:47:00 +0000"
@@ -9927,6 +9933,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-01 00:43:13 +0000"
     },
     "done": true
   },
@@ -9948,6 +9960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-09-01 00:44:00 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-08-31 23:53:37 +0000"
@@ -9963,6 +9981,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-01 00:43:13 +0000"
     },
     "done": true
   },
@@ -9999,6 +10023,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/quartz_wall_from_quartz_pillar_stonecutting": {
+    "criteria": {
+      "has_quartz_pillar": "2025-09-01 00:42:40 +0000"
     },
     "done": true
   },
@@ -10047,6 +10077,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-08-31 23:47:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/vault_hunter": {
+    "criteria": {
+      "requirement": "2025-09-01 00:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-01 00:43:13 +0000"
     },
     "done": true
   },
