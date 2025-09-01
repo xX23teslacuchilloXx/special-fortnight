@@ -7853,12 +7853,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-01 04:16:23 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2025-09-01 03:29:19 +0000"
@@ -7937,9 +7931,9 @@
     },
     "done": true
   },
-  "create:hand_crank_000": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "0": "2025-09-01 04:16:17 +0000"
+      "has_pointed_dripstone": "2025-09-01 03:54:08 +0000"
     },
     "done": true
   },
@@ -7949,15 +7943,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-09-01 03:54:08 +0000"
-    },
-    "done": true
-  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-09-01 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-09-01 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-09-01 04:21:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-01 04:36:23 +0000"
+    },
+    "done": false
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-09-01 04:24:58 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-09-01 04:35:04 +0000"
     },
     "done": true
   },
