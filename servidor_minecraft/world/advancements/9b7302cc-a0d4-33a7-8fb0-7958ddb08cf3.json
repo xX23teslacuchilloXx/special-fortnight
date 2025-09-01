@@ -1014,6 +1014,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-17 05:56:45 +0000",
       "minecraft:spider": "2025-07-17 03:24:42 +0000",
+      "minecraft:slime": "2025-09-01 03:33:49 +0000",
       "minecraft:cave_spider": "2025-07-17 03:16:21 +0000",
       "minecraft:enderman": "2025-07-20 04:55:54 +0000",
       "minecraft:zombie": "2025-07-17 04:18:44 +0000",
@@ -4537,6 +4538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-01 03:34:00 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-08-31 23:47:25 +0000"
@@ -4570,6 +4577,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-31 23:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-01 03:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-01 03:34:00 +0000"
     },
     "done": true
   },

@@ -10290,6 +10290,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-09-01 03:34:15 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/sanctum/vault_hunter": {
     "criteria": {
       "requirement": "2025-09-01 00:40:27 +0000"
@@ -10506,6 +10512,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-09-01 03:34:15 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/light_blue_stained_tiled_glass_from_light_blue_dye": {
     "criteria": {
       "has_needed_items": "2025-09-01 01:53:58 +0000"
@@ -10558,6 +10570,12 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-09-01 00:17:20 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-09-01 03:34:13 +0000"
     },
     "done": true
   },
