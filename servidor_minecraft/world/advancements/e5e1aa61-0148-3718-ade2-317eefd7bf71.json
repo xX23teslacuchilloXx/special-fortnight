@@ -9942,6 +9942,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-08-31 23:57:15 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-08-31 23:53:37 +0000"
