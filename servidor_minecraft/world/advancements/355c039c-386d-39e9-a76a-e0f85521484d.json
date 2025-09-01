@@ -7963,7 +7963,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-09-01 04:46:23 +0000"
+      "requirement": "2025-09-01 04:56:23 +0000"
     },
     "done": false
   },
@@ -7973,9 +7973,27 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-09-01 04:55:13 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-09-01 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-09-01 04:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-01 04:55:13 +0000"
     },
     "done": true
   },
