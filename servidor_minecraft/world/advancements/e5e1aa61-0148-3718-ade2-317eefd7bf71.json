@@ -9920,12 +9920,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-01 05:26:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-01 01:30:45 +0000"
@@ -10598,6 +10592,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-09-01 05:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-01 01:53:58 +0000"
@@ -10716,6 +10716,12 @@
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-09-01 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-09-01 05:35:20 +0000"
     },
     "done": true
   },
