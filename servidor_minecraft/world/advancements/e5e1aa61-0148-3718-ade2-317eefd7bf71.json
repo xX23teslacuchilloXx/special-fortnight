@@ -9948,9 +9948,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/diorite_bricks_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
@@ -9960,15 +9972,51 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/diorite_tile_wall_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diorite_tiles_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diorite_brick_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/dye_blue_concrete": {
     "criteria": {
       "has_needed_dye": "2025-09-01 01:53:56 +0000"
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/diorite_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/small_diorite_tiles_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/dye_cracked_blue_concrete": {
     "criteria": {
       "has_needed_dye": "2025-09-01 01:53:56 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/nii_wall_1_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
@@ -10086,9 +10134,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/diorite_bricks_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-08-31 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diorite_brick_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
@@ -10155,6 +10215,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-08-31 22:51:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diorite_tile_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
@@ -10284,6 +10350,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/big_diorite_tiles_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
@@ -10344,6 +10416,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/diorite_brick_wall_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-08-31 23:47:00 +0000"
@@ -10353,6 +10431,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-31 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
@@ -10435,6 +10519,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-01 02:57:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-08-31 23:05:56 +0000"
@@ -10444,6 +10540,12 @@
   "somemoreblocks:recipes/building_blocks/light_blue_terracotta_tiles_from_light_blue_dye": {
     "criteria": {
       "has_needed_items": "2025-09-01 01:53:58 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diorite_tile_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-01 02:57:21 +0000"
     },
     "done": true
   },
