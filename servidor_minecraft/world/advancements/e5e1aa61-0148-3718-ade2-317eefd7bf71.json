@@ -9922,7 +9922,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-09-01 04:36:23 +0000"
+      "requirement": "2025-09-01 04:46:23 +0000"
     },
     "done": false
   },
@@ -10091,6 +10091,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-09-01 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-09-01 04:39:30 +0000"
     },
     "done": true
   },
@@ -10650,6 +10656,12 @@
   "somemoreblocks:recipes/building_blocks/light_blue_terracotta_tiles_from_light_blue_dye": {
     "criteria": {
       "has_needed_items": "2025-09-01 01:53:58 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-09-01 04:42:35 +0000"
     },
     "done": true
   },
