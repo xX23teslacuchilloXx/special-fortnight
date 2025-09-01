@@ -7855,7 +7855,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-09-01 04:06:23 +0000"
+      "requirement": "2025-09-01 04:16:23 +0000"
     },
     "done": false
   },
@@ -7937,9 +7937,27 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-09-01 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-09-01 04:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-09-01 03:54:08 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-09-01 04:11:05 +0000"
     },
     "done": true
   },
