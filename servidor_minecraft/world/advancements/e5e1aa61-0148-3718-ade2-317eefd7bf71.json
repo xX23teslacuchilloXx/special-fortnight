@@ -10797,15 +10797,33 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-02 01:47:16 +0000"
+    },
+    "done": false
+  },
   "xkdeco:recipes/decorations/item_projector": {
     "criteria": {
       "has_item": "2025-09-02 01:29:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-02 01:34:34 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/decorations/plain_block_display": {
     "criteria": {
       "has_item": "2025-09-02 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-02 01:34:34 +0000"
     },
     "done": true
   },
