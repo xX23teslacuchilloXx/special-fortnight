@@ -567,3 +567,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:15:40] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
 [01:15:50] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 91, 53, -1, minecraft:the_nether
 [01:16:15] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:17:27] [Server thread/INFO]: Yumalala was killed by Evoker using magic
+[01:17:27] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.chicken_02.09.2025-01.17.27.dat
+[01:17:27] [Server thread/INFO]: Your backpack has been placed at X: 589 Y: 69 Z: 76
+[01:17:38] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 588, 69, 76, minecraft:overworld
+[01:19:28] [Server thread/WARN]: Yumalala moved wrongly!
