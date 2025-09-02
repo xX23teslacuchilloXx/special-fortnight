@@ -10797,12 +10797,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-02 01:47:16 +0000"
-    },
-    "done": false
-  },
   "xkdeco:recipes/decorations/item_projector": {
     "criteria": {
       "has_item": "2025-09-02 01:29:29 +0000"
