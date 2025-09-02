@@ -10797,5 +10797,23 @@
     },
     "done": true
   },
+  "xkdeco:recipes/decorations/item_projector": {
+    "criteria": {
+      "has_item": "2025-09-02 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/plain_block_display": {
+    "criteria": {
+      "has_item": "2025-09-02 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/plain_item_display": {
+    "criteria": {
+      "has_item": "2025-09-02 01:29:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
