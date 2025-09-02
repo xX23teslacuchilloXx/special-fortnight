@@ -717,3 +717,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:56:26] [Server thread/WARN]: Yumalala moved too quickly! 0.0,-10.80652611000901,0.0
 [01:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
 [01:56:26] [Worker-Main-1/WARN]: Empty or non-existent pool: ships:secondary
+[01:58:49] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 457.000000, -52.450000, -2515.030000]
+[02:00:14] [Server thread/INFO]: Yumalala lost connection: Timed out
+[02:00:14] [Server thread/INFO]: Yumalala left the game
+[02:00:14] [Server thread/WARN]: handleDisconnection() called twice
