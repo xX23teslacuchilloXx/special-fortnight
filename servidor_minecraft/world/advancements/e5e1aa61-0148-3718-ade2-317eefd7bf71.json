@@ -10827,9 +10827,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-04 23:05:39 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-09-04 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-09-04 23:05:39 +0000"
     },
     "done": true
   },
