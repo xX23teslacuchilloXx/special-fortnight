@@ -10833,6 +10833,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-05 00:01:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-04 23:53:03 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-09-04 22:53:29 +0000"
@@ -10842,6 +10854,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-09-04 23:05:39 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/white_stained_tiled_glass_from_white_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-04 23:53:03 +0000"
     },
     "done": true
   },
