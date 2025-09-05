@@ -10833,6 +10833,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/dye_purple_warning": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-09-05 00:12:55 +0000"
@@ -10851,15 +10857,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-05 02:27:39 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-09-05 00:42:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_terracotta_bricks_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks_from_yellow_concrete_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_shingles_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
@@ -10893,9 +10935,33 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/dye_purple_boundary_marker": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:39 +0000"
     },
     "done": true
   },
@@ -10905,9 +10971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2025-09-05 00:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
@@ -10926,6 +11004,12 @@
   "somemoreblocks:recipes/building_blocks/white_stained_tiled_glass_from_white_stained_glass": {
     "criteria": {
       "has_needed_items": "2025-09-04 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_terracotta_tiles_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
