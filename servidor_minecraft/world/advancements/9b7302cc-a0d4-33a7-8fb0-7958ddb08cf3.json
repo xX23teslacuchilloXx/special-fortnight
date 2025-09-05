@@ -1016,6 +1016,7 @@
       "minecraft:skeleton": "2025-07-17 05:56:45 +0000",
       "minecraft:spider": "2025-07-17 03:24:42 +0000",
       "minecraft:slime": "2025-09-01 03:33:49 +0000",
+      "minecraft:phantom": "2025-09-05 02:47:50 +0000",
       "minecraft:cave_spider": "2025-07-17 03:16:21 +0000",
       "minecraft:enderman": "2025-07-20 04:55:54 +0000",
       "minecraft:silverfish": "2025-09-05 02:39:15 +0000",
@@ -5482,9 +5483,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-05 02:51:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-09-05 02:38:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_tiles_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:43:10 +0000"
     },
     "done": true
   },
