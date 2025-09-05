@@ -5484,12 +5484,6 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2025-09-05 03:19:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-09-05 02:38:19 +0000"
@@ -5514,15 +5508,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/black_concrete_tiles_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-09-05 03:05:02 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/black_concrete_tiles_from_black_concrete_stonecutting": {
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
-      "has_needed_items": "2025-09-05 02:43:10 +0000"
+      "has_item": "2025-09-05 03:19:35 +0000"
     },
     "done": true
   },

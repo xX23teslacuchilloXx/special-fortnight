@@ -10827,15 +10827,39 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-09-04 22:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-04 23:05:39 +0000"
     },
     "done": true
   },
-  "new_soviet:recipes/building_blocks/dye_purple_warning": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+      "has_eye_armor_trim_smithing_template": "2025-09-04 23:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-04 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/white_stained_tiled_glass_from_white_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-04 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-09-05 00:12:52 +0000"
     },
     "done": true
   },
@@ -10845,39 +10869,21 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:04:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-09-05 00:12:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
+  "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
-      "has_purple_dye": "2025-09-05 02:27:31 +0000"
+      "has_item": "2025-09-05 00:12:55 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/gray_terracotta_tiles_from_gray_dye": {
+  "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
-      "has_needed_items": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-05 02:27:39 +0000"
+      "has_item": "2025-09-05 00:12:55 +0000"
     },
     "done": true
   },
@@ -10887,9 +10893,51 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/black_terracotta_tiles_from_black_dye": {
+  "somemoreblocks:recipes/building_blocks/oak_mosaic": {
     "criteria": {
-      "has_needed_items": "2025-09-05 02:33:38 +0000"
+      "has_needed_items": "2025-09-05 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/oak_pane_window_shapeless": {
+    "criteria": {
+      "has_oak_slab": "2025-09-05 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks_from_yellow_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles_from_yellow_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dye_purple_warning": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
@@ -10899,15 +10947,93 @@
     },
     "done": true
   },
-  "new_soviet:recipes/building_blocks/dye_black_boundary_marker": {
+  "somemoreblocks:recipes/building_blocks/purple_terracotta_bricks_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_shingles_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dye_purple_boundary_marker": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_terracotta_tiles_from_purple_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-05 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-09-05 02:33:38 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/purple_terracotta_bricks_from_purple_dye": {
+  "somemoreblocks:recipes/building_blocks/gray_terracotta_tiles_from_gray_dye": {
     "criteria": {
-      "has_needed_items": "2025-09-05 02:27:31 +0000"
+      "has_needed_items": "2025-09-05 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_terracotta_tiles_from_black_dye": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dye_black_boundary_marker": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 02:33:38 +0000"
     },
     "done": true
   },
@@ -10920,18 +11046,6 @@
   "somemoreblocks:recipes/building_blocks/black_terracotta_bricks_from_black_dye": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_dye": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks_from_yellow_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:04:16 +0000"
     },
     "done": true
   },
@@ -10953,24 +11067,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/purple_shingles_from_purple_dye": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:42:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles_from_yellow_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:04:16 +0000"
-    },
-    "done": true
-  },
   "new_soviet:recipes/building_blocks/dye_gray_warning": {
     "criteria": {
       "has_needed_dye": "2025-09-05 02:33:38 +0000"
@@ -10980,12 +11076,6 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/black_concrete_tiles": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:42:05 +0000"
     },
     "done": true
   },
@@ -11001,36 +11091,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/black_concrete_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:42:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-04 23:53:03 +0000"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-09-04 22:53:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-09-05 00:12:55 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/oak_mosaic": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:00:00 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/black_stained_tiled_glass_from_black_dye": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:33:38 +0000"
@@ -11043,57 +11103,9 @@
     },
     "done": true
   },
-  "new_soviet:recipes/building_blocks/dye_purple_boundary_marker": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/black_concrete_tiles_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:42:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:04:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/gray_stained_tiled_glass_from_gray_dye": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/purple_stained_tiled_glass_from_purple_stained_glass": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:27:39 +0000"
-    },
-    "done": true
-  },
-  "new_soviet:recipes/building_blocks/oak_pane_window_shapeless": {
-    "criteria": {
-      "has_oak_slab": "2025-09-05 02:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
@@ -11103,39 +11115,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-09-05 00:12:55 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze_smithing": {
-    "criteria": {
-      "has_blaze": "2025-09-05 03:10:47 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/building_blocks/dye_gray_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 02:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-09-04 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-09-05 00:12:52 +0000"
     },
     "done": true
   },
@@ -11151,21 +11133,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/white_stained_tiled_glass_from_white_stained_glass": {
-    "criteria": {
-      "has_needed_items": "2025-09-04 23:53:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-09-05 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/purple_terracotta_tiles_from_purple_dye": {
-    "criteria": {
-      "has_needed_items": "2025-09-05 02:27:31 +0000"
     },
     "done": true
   },
@@ -11178,6 +11148,36 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-05 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_concrete_tiles_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-09-05 03:10:47 +0000"
     },
     "done": true
   },
