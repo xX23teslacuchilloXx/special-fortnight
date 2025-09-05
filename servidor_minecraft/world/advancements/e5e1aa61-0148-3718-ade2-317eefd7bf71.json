@@ -10839,6 +10839,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-09-05 00:12:55 +0000"
@@ -10848,6 +10854,18 @@
   "create:funnel": {
     "criteria": {
       "0": "2025-09-05 00:42:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks_from_yellow_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_tiles_from_yellow_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
     },
     "done": true
   },
@@ -10872,6 +10890,12 @@
   "somemoreblocks:recipes/building_blocks/oak_mosaic": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 02:04:16 +0000"
     },
     "done": true
   },
