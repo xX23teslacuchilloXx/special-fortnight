@@ -10989,12 +10989,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-05 03:11:41 +0000"
-    },
-    "done": false
-  },
   "somemoreblocks:recipes/building_blocks/gray_terracotta_bricks_from_gray_dye": {
     "criteria": {
       "has_needed_items": "2025-09-05 02:33:38 +0000"
