@@ -5526,5 +5526,341 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-05 04:04:16 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_pillar_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_dripstone": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-05 04:03:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-05 04:03:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
