@@ -8150,9 +8150,45 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/destructor_core": {
     "criteria": {
       "has_the_recipe": "2025-09-06 02:02:25 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
     },
     "done": true
   },
@@ -8171,6 +8207,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
     },
     "done": true
   },
@@ -8204,6 +8246,18 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/craft_redstonepen": {
     "criteria": {
       "has_pen": "2025-09-06 02:01:28 +0000"
@@ -8213,6 +8267,24 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:13:06 +0000"
     },
     "done": true
   },
@@ -8246,15 +8318,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_the_recipe": "2025-09-06 02:02:05 +0000"
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/cracked_end_stone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-06 02:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
     },
     "done": true
   },
@@ -8282,6 +8402,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_the_recipe": "2025-09-06 02:02:17 +0000"
@@ -8300,6 +8426,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/cut_redstone": {
     "criteria": {
       "has_needed_items": "2025-09-06 02:01:28 +0000"
@@ -8312,9 +8468,39 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/impact_core": {
     "criteria": {
       "has_the_recipe": "2025-09-06 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:04:36 +0000"
     },
     "done": true
   },
