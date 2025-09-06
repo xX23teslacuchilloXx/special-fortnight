@@ -11221,6 +11221,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-06 03:43:53 +0000"
+    },
+    "done": false
+  },
   "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:05:21 +0000"
@@ -11239,6 +11245,18 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/polished_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_purpur_block": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
@@ -11248,6 +11266,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purpur_tile_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
@@ -11278,6 +11302,12 @@
   "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
@@ -11329,6 +11359,30 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-09-06 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
@@ -11365,6 +11419,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purpur_tile_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purpur_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
@@ -11383,6 +11455,24 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/purpur_tile_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-09-06 03:40:23 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/cracked_end_stone_bricks": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:05:21 +0000"
@@ -11398,6 +11488,12 @@
   "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:10:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_purpur": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
@@ -11425,6 +11521,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/purpur_tiles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:05:21 +0000"
@@ -11440,6 +11542,12 @@
   "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-09-06 03:40:42 +0000"
     },
     "done": true
   },
@@ -11464,6 +11572,18 @@
   "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-06 03:40:42 +0000"
     },
     "done": true
   },
@@ -11506,6 +11626,12 @@
   "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
