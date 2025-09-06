@@ -511,3 +511,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[01:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[01:13:11] [Server thread/WARN]: Yumalala moved wrongly!
+[01:13:44] [Server thread/INFO]: Yumalala has reached the goal [Ghast Buster]
+[01:13:44] [Server thread/INFO]: Yumalala has completed the challenge [Return to Sender]
