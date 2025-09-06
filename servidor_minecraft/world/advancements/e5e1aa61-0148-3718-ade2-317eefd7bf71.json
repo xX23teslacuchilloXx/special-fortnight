@@ -11221,39 +11221,93 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "incendium:quartz_flats/ghast_buster": {
     "criteria": {
-      "requirement": "2025-09-06 03:43:53 +0000"
-    },
-    "done": false
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
+      "kill_ghast": "2025-09-06 01:13:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
+      "killed_ghast": "2025-09-06 01:13:44 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_quartz_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_quartz": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_purpur": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-09-06 01:16:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-09-06 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2025-09-06 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-06 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-06 03:00:27 +0000"
     },
     "done": true
   },
   "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/polished_purpur_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:40:28 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_purpur_block": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
@@ -11269,33 +11323,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/purpur_tile_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:40:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-09-06 01:16:41 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_illager_manor": {
-    "criteria": {
-      "nova_structures:illager_manor": "2025-09-06 02:46:00 +0000"
     },
     "done": true
   },
@@ -11305,33 +11335,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-09-06 03:40:28 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_quartz_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 01:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_pillar": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
     },
     "done": true
   },
@@ -11341,27 +11347,219 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-09-06 03:16:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-09-06 03:01:23 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/chiseled_purpur": {
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
-      "has_needed_items": "2025-09-06 01:14:16 +0000"
+      "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_end_stone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-09-06 03:14:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-09-06 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-09-06 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:shadowlands": "2025-09-06 03:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-09-06 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-09-06 03:24:57 +0000"
     },
     "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-09-06 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-09-06 03:40:23 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_purpur_block": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purpur_tile_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-06 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-09-06 03:40:28 +0000"
     },
     "done": true
   },
@@ -11383,42 +11581,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magma_cube_smithing": {
-    "criteria": {
-      "has_magma_cube": "2025-09-06 01:42:40 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/ghast_buster": {
-    "criteria": {
-      "kill_ghast": "2025-09-06 01:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-09-06 03:24:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-09-06 03:00:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-09-06 03:40:28 +0000"
@@ -11437,24 +11599,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-09-06 03:14:06 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/purpur_tile_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:40:28 +0000"
@@ -11467,57 +11611,9 @@
     },
     "done": true
   },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-09-06 03:40:23 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_end_stone_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:10:21 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/smooth_purpur": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:40:28 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cut_quartz": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 01:14:13 +0000"
     },
     "done": true
   },
@@ -11527,105 +11623,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-09-06 03:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tiles": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-09-06 03:23:28 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:01:23 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/polished_purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-06 03:40:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-06 03:40:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton_smithing": {
-    "criteria": {
-      "has_skeleton": "2025-09-06 03:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-09-06 01:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-09-06 03:00:27 +0000"
-    },
-    "done": true
-  },
-  "nullscape:root": {
-    "criteria": {
-      "nullscape:shadowlands": "2025-09-06 03:19:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-06 02:50:42 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-09-06 03:01:23 +0000"
     },
     "done": true
   },
@@ -11635,21 +11635,21 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_bricks_stonecutting": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
-      "has_needed_items": "2025-09-06 03:05:21 +0000"
+      "has_spire_armor_trim_smithing_template": "2025-09-06 03:40:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_end_stone": "2025-09-06 03:01:23 +0000"
+      "has_smithing_trim_template": "2025-09-06 03:40:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "has_end_stone": "2025-09-06 03:01:23 +0000"
+      "dragon_egg": "2025-09-06 03:48:45 +0000"
     },
     "done": true
   },
