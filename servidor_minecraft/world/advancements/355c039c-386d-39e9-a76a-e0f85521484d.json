@@ -3580,7 +3580,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-17 05:08:23 +0000"
+      "minecraft:crimson_forest": "2025-07-17 05:08:23 +0000",
+      "minecraft:nether_wastes": "2025-09-06 01:31:14 +0000"
     },
     "done": false
   },
@@ -8144,75 +8145,117 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 01:31:04 +0000"
+      "log_spam_fixer": "2025-09-06 01:41:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-06 01:38:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
