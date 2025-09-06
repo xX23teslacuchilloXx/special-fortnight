@@ -1113,6 +1113,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-17 03:27:08 +0000",
       "minecraft:skeleton": "2025-07-17 03:00:44 +0000",
+      "minecraft:hoglin": "2025-09-06 02:16:03 +0000",
       "minecraft:vindicator": "2025-07-17 03:29:15 +0000",
       "minecraft:spider": "2025-07-17 02:53:42 +0000",
       "minecraft:creeper": "2025-07-17 02:57:00 +0000",
@@ -1121,6 +1122,7 @@
       "minecraft:phantom": "2025-08-30 04:21:20 +0000",
       "minecraft:husk": "2025-07-17 02:59:05 +0000",
       "minecraft:cave_spider": "2025-07-17 02:55:17 +0000",
+      "minecraft:piglin": "2025-09-06 02:16:06 +0000",
       "minecraft:enderman": "2025-07-17 03:21:47 +0000",
       "minecraft:stray": "2025-07-17 03:05:07 +0000",
       "minecraft:silverfish": "2025-09-05 02:58:54 +0000",
@@ -8146,73 +8148,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-09-06 02:13:01 +0000"
+      "log_spam_fixer": "2025-09-06 02:23:29 +0000"
     },
     "done": false
   },
@@ -8258,6 +8260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-06 02:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/craft_redstonepen": {
     "criteria": {
       "has_pen": "2025-09-06 02:01:28 +0000"
@@ -8270,15 +8278,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-06 02:16:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube_smithing": {
     "criteria": {
       "has_magma_cube": "2025-09-06 01:45:24 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-09-06 02:16:07 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_the_recipe": "2025-09-06 02:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-06 02:16:07 +0000"
     },
     "done": true
   },
