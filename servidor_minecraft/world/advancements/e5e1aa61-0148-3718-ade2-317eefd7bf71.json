@@ -11653,5 +11653,35 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-07 00:37:46 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/black_stained_tiled_glass_from_black_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-07 00:28:57 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/gray_stained_tiled_glass_from_gray_stained_glass": {
+    "criteria": {
+      "has_needed_items": "2025-09-07 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-07 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-07 00:28:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
