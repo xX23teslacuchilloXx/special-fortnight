@@ -11653,27 +11653,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/black_stained_tiled_glass_from_black_stained_glass": {
-    "criteria": {
-      "has_needed_items": "2025-09-07 00:28:57 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles_from_lime_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-07 02:20:14 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/gray_stained_tiled_glass_from_gray_stained_glass": {
     "criteria": {
       "has_needed_items": "2025-09-07 00:28:48 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks_from_lime_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-07 02:20:14 +0000"
     },
     "done": true
   },
@@ -11683,15 +11665,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
+  "somemoreblocks:recipes/building_blocks/black_stained_tiled_glass_from_black_stained_glass": {
     "criteria": {
-      "has_creeper": "2025-09-07 00:50:28 +0000"
+      "has_needed_items": "2025-09-07 00:28:57 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks": {
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
-      "has_needed_items": "2025-09-07 02:20:14 +0000"
+      "has_glass": "2025-09-07 00:28:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-09-07 00:50:28 +0000"
     },
     "done": true
   },
@@ -11701,9 +11689,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles_from_lime_concrete_stonecutting": {
     "criteria": {
-      "has_glass": "2025-09-07 00:28:57 +0000"
+      "has_needed_items": "2025-09-07 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks_from_lime_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-07 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-07 02:20:14 +0000"
     },
     "done": true
   },
