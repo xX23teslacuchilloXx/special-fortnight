@@ -6122,12 +6122,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-08 02:29:21 +0000"
-    },
-    "done": false
-  },
   "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-08 02:00:05 +0000"
