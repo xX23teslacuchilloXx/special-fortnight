@@ -1014,6 +1014,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-08 00:36:52 +0000",
       "minecraft:skeleton": "2025-07-17 05:56:45 +0000",
       "minecraft:spider": "2025-07-17 03:24:42 +0000",
       "minecraft:slime": "2025-09-01 03:33:49 +0000",
@@ -6013,6 +6014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-08 00:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-09-07 23:53:40 +0000"
@@ -6085,9 +6092,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-08 00:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-09-07 23:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-08 00:42:19 +0000"
     },
     "done": true
   },
