@@ -504,6 +504,7 @@
       "cooked_cod": "2025-09-05 02:52:47 +0000",
       "bread": "2025-07-17 03:09:12 +0000",
       "glow_berries": "2025-07-17 06:04:13 +0000",
+      "melon_slice": "2025-09-08 02:25:41 +0000",
       "golden_carrot": "2025-08-30 05:57:04 +0000",
       "cooked_chicken": "2025-07-17 03:08:35 +0000",
       "cooked_salmon": "2025-07-22 01:22:31 +0000",
@@ -6120,6 +6121,12 @@
       "has_snowball": "2025-09-08 00:42:19 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-08 02:29:21 +0000"
+    },
+    "done": false
   },
   "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
