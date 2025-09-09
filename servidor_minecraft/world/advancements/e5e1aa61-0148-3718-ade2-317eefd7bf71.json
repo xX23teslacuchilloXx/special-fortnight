@@ -422,6 +422,7 @@
       "minecraft:ravager": "2025-08-25 19:13:43 +0000",
       "minecraft:ghast": "2025-08-18 00:35:28 +0000",
       "minecraft:hoglin": "2025-08-18 00:34:52 +0000",
+      "minecraft:guardian": "2025-09-09 23:30:38 +0000",
       "minecraft:vindicator": "2025-07-17 03:27:55 +0000",
       "minecraft:magma_cube": "2025-07-17 05:22:16 +0000",
       "minecraft:piglin_brute": "2025-07-17 05:18:01 +0000",
@@ -11812,6 +11813,54 @@
   "new_soviet:recipes/misc/sickle_pattern": {
     "criteria": {
       "has_the_recipe": "2025-09-09 01:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-09 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-09 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-09 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-09 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-09-09 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-09 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-09 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-09 23:33:30 +0000"
     },
     "done": true
   },
