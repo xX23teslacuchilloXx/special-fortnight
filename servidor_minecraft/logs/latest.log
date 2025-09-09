@@ -541,3 +541,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [01:43:08] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
 [01:43:22] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:58:46] [Server thread/INFO]: Yumalala was processed by Crushing Wheels
+[01:58:46] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.blaze_09.09.2025-01.58.46.dat
+[01:58:46] [Server thread/INFO]: Your backpack has been placed at X: 587 Y: 68 Z: 54
+[01:59:19] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 587, 69, 55, minecraft:overworld
+[02:02:43] [Server thread/INFO]: Named entity class_1642['Sand Crab'/1162596, l='ServerLevel[world]', x=643.55, y=67.15, z=583.66] died: Sand Crab was killed whilst fighting AKUSGOD
+[02:06:14] [Server thread/INFO]: Yumalala was processed by Crushing Wheels
+[02:06:14] [Server thread/INFO]: Created new backpack backup file for Yumalala with unique ID travelersbackpack.blaze_09.09.2025-02.06.14.dat
+[02:06:14] [Server thread/INFO]: Your backpack has been placed at X: 587 Y: 68 Z: 54
+[02:06:39] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 587, 69, 55, minecraft:overworld
+[02:11:07] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
