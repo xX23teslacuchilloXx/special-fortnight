@@ -6472,6 +6472,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-09 01:50:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-09-09 00:38:10 +0000"
