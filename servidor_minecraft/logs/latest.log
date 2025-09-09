@@ -420,3 +420,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [00:25:07] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [00:25:11] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [00:26:06] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[00:34:38] [Server thread/INFO]: AKUSGOD[/127.237.135.15:60603] logged in with entity id 42004 at (581.6921155004782, 68.5625, 34.861749219937956)
+[00:34:38] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
+[00:34:38] [Server thread/INFO]: Loading config from file...
+[00:34:38] [Server thread/INFO]: AKUSGOD joined the game
+[00:34:39] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY

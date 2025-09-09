@@ -6122,105 +6122,63 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles_from_lime_concrete_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
+      "has_needed_items": "2025-09-08 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks_from_lime_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-09-08 01:21:45 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
+      "has_melon": "2025-09-08 01:39:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
+      "has_melon": "2025-09-08 01:39:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
+      "has_melon": "2025-09-08 01:39:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "travelersbackpack:recipes/misc/melon": {
     "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-08 03:12:24 +0000"
-    },
-    "done": false
-  },
-  "xkdeco:recipes/decorations/factory_lamp": {
-    "criteria": {
-      "has_item": "2025-09-08 03:00:57 +0000"
+      "has_melon_slice": "2025-09-08 01:39:59 +0000"
     },
     "done": true
   },
   "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-08 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-09-08 03:03:22 +0000"
     },
     "done": true
   },
@@ -6245,24 +6203,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-09-08 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles_from_lime_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
     },
     "done": true
   },
@@ -6296,12 +6236,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-08 02:00:05 +0000"
@@ -6311,12 +6245,6 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-08 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
     },
     "done": true
   },
@@ -6332,57 +6260,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-09-08 01:39:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-09-08 03:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-09-08 03:04:25 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-08 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks_from_lime_concrete_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-08 03:00:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-09-08 03:00:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-09-08 01:39:59 +0000"
     },
     "done": true
   },
@@ -6410,18 +6290,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-09-08 02:00:05 +0000"
@@ -6431,78 +6299,6 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-08 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-09-08 01:39:59 +0000"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/factory_lamp_block_from_glowstone_stonecutting": {
-    "criteria": {
-      "has_glowstone": "2025-09-08 03:04:25 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-09-08 01:21:45 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-09-08 01:39:59 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
-    "criteria": {
-      "has_needed_items": "2025-09-08 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-09-08 03:00:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-08 03:00:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-09-08 02:05:19 +0000"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-09-08 03:03:22 +0000"
     },
     "done": true
   },
@@ -6518,6 +6314,138 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-08 02:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-09-08 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-08 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-08 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-09-08 03:00:37 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/factory_lamp": {
+    "criteria": {
+      "has_item": "2025-09-08 03:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-08 03:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-08 03:00:57 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_end_stone": {
+    "criteria": {
+      "has_needed_items": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-08 03:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-09-08 03:03:22 +0000"
@@ -6530,15 +6458,15 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/lime_concrete_tiles": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_needed_items": "2025-09-08 01:14:17 +0000"
+      "has_glowstone": "2025-09-08 03:04:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "xkdeco:recipes/building_blocks/factory_lamp_block_from_glowstone_stonecutting": {
     "criteria": {
-      "has_raw_copper": "2025-09-08 02:00:05 +0000"
+      "has_glowstone": "2025-09-08 03:04:25 +0000"
     },
     "done": true
   },
