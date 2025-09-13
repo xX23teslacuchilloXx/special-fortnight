@@ -12002,5 +12002,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-11 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-13 01:08:00 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
