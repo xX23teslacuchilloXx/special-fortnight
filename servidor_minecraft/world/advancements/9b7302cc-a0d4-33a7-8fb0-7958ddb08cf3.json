@@ -6531,6 +6531,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-14 04:30:50 +0000"
+    },
+    "done": false
+  },
   "somemoreblocks:recipes/building_blocks/cut_iron": {
     "criteria": {
       "has_needed_items": "2025-09-14 03:35:04 +0000"
