@@ -635,3 +635,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [03:57:51] [Worker-Main-34/WARN]: Empty or non-existent pool: ships:secondary
+[04:04:16] [pool-3-thread-1/INFO]: Vivecraft: Checking for Updates
+[04:04:16] [Server thread/INFO]: Yumalala[/127.105.12.203:41371] logged in with entity id 993923 at (-659.5252013221856, 79.0, -698.4259059630109)
+[04:04:16] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[04:04:16] [Server thread/INFO]: Loading config from file...
+[04:04:16] [Server thread/INFO]: Yumalala joined the game
+[04:04:17] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[04:06:29] [Server thread/INFO]: [Yumalala: Teleported Yumalala to AKUSGOD]
