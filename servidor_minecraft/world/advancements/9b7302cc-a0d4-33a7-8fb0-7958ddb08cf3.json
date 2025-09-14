@@ -6600,6 +6600,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
@@ -6611,6 +6617,12 @@
       "has_ancient_debris": "2025-09-14 05:26:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
   },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
@@ -6648,6 +6660,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
@@ -6684,6 +6702,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
@@ -6696,17 +6720,35 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-09-14 05:25:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
@@ -6719,6 +6761,12 @@
       "has_netherite_upgrade_smithing_template": "2025-09-14 05:57:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
@@ -6744,11 +6792,29 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -6773,6 +6839,12 @@
       "has_netherite_ingot": "2025-09-14 05:56:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 07:00:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
