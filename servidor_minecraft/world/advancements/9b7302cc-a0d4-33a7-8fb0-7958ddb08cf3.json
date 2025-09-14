@@ -6531,5 +6531,71 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/cut_iron": {
+    "criteria": {
+      "has_needed_items": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/iron_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/factory_block_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/metal_plating_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/steel_block": {
+    "criteria": {
+      "has_item": "2025-09-14 03:35:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

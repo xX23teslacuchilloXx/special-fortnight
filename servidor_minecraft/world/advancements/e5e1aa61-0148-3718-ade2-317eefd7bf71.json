@@ -61,10 +61,12 @@
       "minecraft:savanna_plateau": "2025-07-20 06:07:41 +0000",
       "minecraft:beach": "2025-07-17 02:48:33 +0000",
       "minecraft:dark_forest": "2025-07-20 05:21:16 +0000",
+      "minecraft:mangrove_swamp": "2025-09-14 03:35:36 +0000",
       "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 05:42:38 +0000",
       "minecraft:river": "2025-07-17 02:48:27 +0000",
       "minecraft:dripstone_caves": "2025-09-01 03:51:56 +0000",
+      "minecraft:swamp": "2025-09-14 03:35:01 +0000",
       "minecraft:cold_ocean": "2025-07-20 06:21:11 +0000",
       "minecraft:forest": "2025-07-17 02:26:19 +0000",
       "minecraft:lush_caves": "2025-07-17 04:51:41 +0000",
@@ -285,7 +287,8 @@
     "criteria": {
       "tavern_dark_oak": "2025-07-20 05:27:20 +0000",
       "illager_manor": "2025-09-06 02:46:00 +0000",
-      "illager_camp": "2025-07-17 02:47:28 +0000"
+      "illager_camp": "2025-07-17 02:47:28 +0000",
+      "mangrove_witch_hut": "2025-09-14 03:35:48 +0000"
     },
     "done": false
   },
@@ -12006,6 +12009,85 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-09-11 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-09-14 03:35:50 +0000",
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-14 03:35:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-09-14 03:35:08 +0000"
     },
     "done": true
   },
